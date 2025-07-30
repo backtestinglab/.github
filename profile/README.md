@@ -1,10 +1,8 @@
-<!-- to do later
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/backtesting-lab/.github/main/profile/BacktestingLab_Banner.png" alt="BacktestingLab Banner">
+  <img src="https://github.com/backtestinglab/.github/blob/master/profile/BacktestingLab_Banner.png" alt="BacktestingLab Banner">
 </p>
 <br/>
--->
 
 > We've all been there!
 >
